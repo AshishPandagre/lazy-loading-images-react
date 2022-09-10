@@ -1,6 +1,6 @@
 # Lazy Loading images in React
 
-Article link : 
+Article link : https://ashishpandagre.medium.com/lazy-loading-images-in-react-6c94770e6535
 
 ## Usage
 
